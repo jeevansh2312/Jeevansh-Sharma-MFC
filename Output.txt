@@ -1,0 +1,17 @@
+How you doin', You wanna sort (Y/N): Y
+Enter the array for sorting: [23,14,25,67,71,1,29]
+Enter 1 for bubble sort, 2 for insertion sort, and 3 for merge sort: 1
+[1, 14, 23, 25, 29, 67, 71]
+How you doin', You wanna sort (Y/N): Y
+Enter the array for sorting: [23,14,25,67,71,1,29]
+Enter 1 for bubble sort, 2 for insertion sort, and 3 for merge sort: 2
+[1, 14, 23, 25, 29, 67, 71]
+How you doin', You wanna sort (Y/N): Y
+Enter the array for sorting: [23,14,25,67,71,1,29]
+Enter 1 for bubble sort, 2 for insertion sort, and 3 for merge sort: 3
+[1, 14, 23, 25, 29, 67, 71]
+How you doin', You wanna sort (Y/N): Y
+Enter the array for sorting: [23,14,25,67,71,1,29]
+Enter 1 for bubble sort, 2 for insertion sort, and 3 for merge sort: 4
+Invalid Input, please try again
+How you doin', You wanna sort (Y/N): N
