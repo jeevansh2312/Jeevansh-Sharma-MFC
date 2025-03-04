@@ -1,0 +1,12 @@
+Enter book title: Python Programming
+Enter book author: John Doe
+Enter book ISBN: 1234567890
+
+ID: 1, Title: Python Programming, Author: John Doe, ISBN: 1234567890
+
+Enter book ID to update: 1
+Enter new title: Advanced Python
+Enter new author: Jane Smith
+Enter new ISBN: 0987654321
+
+Enter book ID to delete: 1
